@@ -1,0 +1,40 @@
+body {
+    font-family: serif; /* Используем шрифт serif для элегантности */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8; /* Светло-серый фон */
+}
+
+header {
+    background-color: #e0b0ff; /* Цвет header */
+    color: #333;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+}
+
+main {
+    padding: 2rem;
+    text-align: justify; /* Выравнивание текста по ширине */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+    box-shadow: 2px 2px 5px #888888; /* Тень для изображений */
+}
+
+footer {
+    background-color: #e0b0ff;
+    color: #333;
+    padding: 1rem;
+    text-align: center;
+}
